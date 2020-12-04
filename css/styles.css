@@ -1,0 +1,12 @@
+body{
+    background-image:url("../pictures/bc.jpeg");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+ul,ol{
+    line-height: 45px;
+}
+h1,h2{
+    color:aqua;
+    text-align:center;
+}
